@@ -1,4 +1,4 @@
-# Estudos_RocketSeat
+# NWL_RocketSeat
 
 Certifique-se de ter o Python 3 instalado.
 Inicie um ambiente virtual do Python
